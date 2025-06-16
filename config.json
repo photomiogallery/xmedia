@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "Gallery from X",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme": "classic",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "All images courtesy of their author.",
   "usage-stats": false
 }
