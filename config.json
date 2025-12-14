@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Gallery from X",
+  "title": "Gallery X",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
