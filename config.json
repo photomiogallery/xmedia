@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "classic",
   "css": "./custom.css",
-  "footer": "All images courtesy of their author.",
+  "footer": "All images courtesy of their respective owners.",
   "usage-stats": false
 }
